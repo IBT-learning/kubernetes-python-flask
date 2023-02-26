@@ -15,7 +15,7 @@ minikube start
 
 # Deploying the Application
 
-The solution is is in the solution1 folder. Try filling out the deployment,namnespaces and services.yml files in the manifests folder. You can use the solution1 folder as a reference. If you run into problems you can always just copy over the files from the solution1 folder.
+The solution is is in the solution1 folder. Try filling out the deployment, namespaces and services.yml files in the manifests folder. You can use the solution1 folder as a reference. If you run into problems you can always just copy over the files from the solution1 folder.
 
 1. Start with creating the namespaces first.  This will create the namespaces for the application. Namespaces need to be created first because the other resources will be created in the namespaces.
 ```
